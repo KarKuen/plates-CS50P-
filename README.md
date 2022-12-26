@@ -1,2 +1,4 @@
-# plates-CS50P-
-Validates vanity plates
+# plates (CS50P)
+
+##### CS50P Week 2 Problem set
+* Validates vanity plates
